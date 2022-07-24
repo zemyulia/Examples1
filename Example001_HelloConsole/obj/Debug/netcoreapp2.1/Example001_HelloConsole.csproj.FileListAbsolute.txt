@@ -1,0 +1,11 @@
+/Users/yuliiamelnik/Documents/GeekBrains/Developing/Examples1/Example001_HelloConsole/bin/Debug/netcoreapp2.1/Example001_HelloConsole.deps.json
+/Users/yuliiamelnik/Documents/GeekBrains/Developing/Examples1/Example001_HelloConsole/bin/Debug/netcoreapp2.1/Example001_HelloConsole.runtimeconfig.json
+/Users/yuliiamelnik/Documents/GeekBrains/Developing/Examples1/Example001_HelloConsole/bin/Debug/netcoreapp2.1/Example001_HelloConsole.runtimeconfig.dev.json
+/Users/yuliiamelnik/Documents/GeekBrains/Developing/Examples1/Example001_HelloConsole/bin/Debug/netcoreapp2.1/Example001_HelloConsole.dll
+/Users/yuliiamelnik/Documents/GeekBrains/Developing/Examples1/Example001_HelloConsole/bin/Debug/netcoreapp2.1/Example001_HelloConsole.pdb
+/Users/yuliiamelnik/Documents/GeekBrains/Developing/Examples1/Example001_HelloConsole/obj/Debug/netcoreapp2.1/Example001_HelloConsole.csprojAssemblyReference.cache
+/Users/yuliiamelnik/Documents/GeekBrains/Developing/Examples1/Example001_HelloConsole/obj/Debug/netcoreapp2.1/Example001_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/yuliiamelnik/Documents/GeekBrains/Developing/Examples1/Example001_HelloConsole/obj/Debug/netcoreapp2.1/Example001_HelloConsole.AssemblyInfoInputs.cache
+/Users/yuliiamelnik/Documents/GeekBrains/Developing/Examples1/Example001_HelloConsole/obj/Debug/netcoreapp2.1/Example001_HelloConsole.AssemblyInfo.cs
+/Users/yuliiamelnik/Documents/GeekBrains/Developing/Examples1/Example001_HelloConsole/obj/Debug/netcoreapp2.1/Example001_HelloConsole.dll
+/Users/yuliiamelnik/Documents/GeekBrains/Developing/Examples1/Example001_HelloConsole/obj/Debug/netcoreapp2.1/Example001_HelloConsole.pdb
