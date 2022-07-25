@@ -6,9 +6,11 @@ namespace Example003_Sum
     {
         static void Main(string[] args)
         {
-            int a = 5; 
-            int b = 12; 
-            Console.WriteLine(a+b);
+            int NumA = new Random().Next(0,21); // 0, 1, 2, ..., 20
+            Console.WriteLine(NumA);
+            int NumB = new Random().Next(0,21); 
+            Console.WriteLine(NumB);
+            Console.WriteLine(NumA+NumB);
         }
     }
 }
