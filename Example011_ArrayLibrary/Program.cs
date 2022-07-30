@@ -6,9 +6,25 @@ namespace Example011_ArrayLibrary
     {
         static void Main(string[] args)
         {
+
+            public int Digits(int num)
+            {
+                if (num == 0)
+                    return 1;
+
+                var result = 0;
+                
+                while(num > 0)
+                {
+                    num = num / 10;
+                    result++;
+                }
+                
+                return result;
+            }
             void FillArray(int[] collection)
             {
-                int length = collection.Length;
+                int length = ch;
                 int index = 0;
 
                 while(index<length)
