@@ -20,6 +20,7 @@ namespace Example012_Methods
                 int length = text.Length;
                 for(int i=0; i<length; i++)
                 {
+                    
                     if(text[i] == oldValue) result = result + $"{newValue}";
                     else result = result + $"{text[i]}";
                 }
