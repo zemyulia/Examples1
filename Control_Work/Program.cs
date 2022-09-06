@@ -58,16 +58,16 @@ namespace Control_Work
                 //     }
                 // }
                 
-                int j=0;
+                int count=0;
                 int m=0;
                 for(int i = 0; i<words.Length; i++)
                 {    
                     if (words[i].Length <=3) {
-                        j++;
+                        count++;
                     }
                 }
 
-                string[] newWords = new string[j];
+                string[] newWords = new string[count];
 
                 for(int i = 0; i<words.Length; i++)
                 {    
